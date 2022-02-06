@@ -25,12 +25,12 @@ either 1 per file or keep related ones together.
   - TH3D EZABL
   - TH3D Tough Extruder
 - Raspberry Pi 4 w/ 4GB
-- Kamen 7" LCD
+- Kuman 7" LCD
 - RaspiCam v1.2 or v1.3
 
 ## KlipperScreen
 
-I'm using KlipperScreen with a Kamen 7" LCD connected to HDMI on my Raspberry 4. 
+I'm using KlipperScreen with a Kuman 7" LCD connected to HDMI on my Raspberry 4. 
 
 My only changes are for custom filament settings.
 
